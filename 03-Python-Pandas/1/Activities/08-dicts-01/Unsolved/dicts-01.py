@@ -27,27 +27,6 @@ result_list = {}
 
 for key in san_francisco:
     result_list[key] = san_francisco[key]
-print(result_list)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 # Print the manually modified `san_francisco` dictionary and confirm the contents match the commented out version.
+print(result_list)
